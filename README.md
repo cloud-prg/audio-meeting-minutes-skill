@@ -1,5 +1,7 @@
 # Audio Meeting Minutes Skill
 
+[![skills.sh](https://skills.sh/b/cloud-prg/audio-meeting-minutes-skill)](https://skills.sh/cloud-prg/audio-meeting-minutes-skill)
+
 Codex skill for turning audio or video recordings into cleaned transcripts, front-end interview Q&A notes, and Feishu Minutes-style meeting summaries.
 
 ## Install
@@ -7,7 +9,7 @@ Codex skill for turning audio or video recordings into cleaned transcripts, fron
 After this repository is published to GitHub:
 
 ```bash
-npx skills add <owner>/audio-meeting-minutes-skill@audio-meeting-minutes
+npx skills add cloud-prg/audio-meeting-minutes-skill@audio-meeting-minutes
 ```
 
 ## What it does
